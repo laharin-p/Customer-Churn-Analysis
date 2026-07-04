@@ -35,7 +35,7 @@ The objectives of this project are to:
 ```text
 Customer-Churn-Analysis/
 │
-├── Customer_Churn_Analysis.ipynb
+├── Customer_Churn_Analysis_Notebook.ipynb
 ├── customer_churn.csv
 ├── README.md
 ├── requirements.txt
